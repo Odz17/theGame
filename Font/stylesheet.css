@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Atari Classic Smooth';
+    src: url('AtariClassicSmooth.woff2') format('woff2'),
+        url('AtariClassicSmooth.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atari Classic Extrasmooth';
+    src: url('AtariClassicExtrasmooth.woff2') format('woff2'),
+        url('AtariClassicExtrasmooth.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atari Classic';
+    src: url('AtariClassic-Regular.woff2') format('woff2'),
+        url('AtariClassic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atari Classic Chunky';
+    src: url('AtariClassicChunky.woff2') format('woff2'),
+        url('AtariClassicChunky.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

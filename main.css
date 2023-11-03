@@ -1,0 +1,48 @@
+body, html {
+    font-family: 'Atari Classic Smooth';
+    text-align: center;
+        height: 100%;
+        margin: 0;
+        /* gif */
+        background: url('./Images/kiss.gif') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        /* wallpaper */
+        /* background: url("./Images/background_main.jpg") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover; */
+    }
+    #container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 70vh;
+    }
+    #startButton {
+        background-color: rgba(222, 0, 0, 0.816);
+        color: white;
+        border: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 30px;
+        padding-left: 30px;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        border-radius: 12px;
+        box-shadow: 0 3px #ffffff;
+    }
+    
+    #startButton:hover {
+        background-color: #ff5050;
+    }
+    
+    #startButton:active {
+        box-shadow: 0 3px #ffffff;
+        transform: translateY(4px);
+    }
