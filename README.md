@@ -12,6 +12,12 @@ Creado por José Ordaz y José Rodríguez.
   · El juego consiste en un tablero central con 9 casillas de las cuales se generan dos imágenes especificas de los personajes principales (TOM & JERRY).
 
   · Cada imagen se generá de forma aleatoria su posición en el tablero.
+
+  · La intención es tocar la imagen de JERRY tantas veces como sea posible para aumentar el "SCORE" requerido para finalizar exitosamente el juego.
+
+  · Por otro lado, tienes que no tocar la imagen de TOM para evitar el "GAME OVER".
+
+  · Ganes o pierdas, después de unos segundos, podrás intentarlo nuevamente y mejorar tu puntuación :).
   
 
 ## Herramientas utilizadas:
